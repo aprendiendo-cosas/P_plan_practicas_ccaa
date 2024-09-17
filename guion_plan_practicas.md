@@ -12,9 +12,26 @@
 
 ## Objetivos 
 
+En esta primera sesión de prácticas abordaremos los siguientes objetivos:
 
++ Adquirir una primera visión sobre el objetivo final de las sesiones prácticas de la asignatura: generar un  producto concreto y tangible sobre un territorio determinado (Sierra Nevada en este caso) de manera colaborativa.
++ Avanzar en la comprensión de las distintas formas de abordar la caracterización de sistemas complejos como los ecosistemas. 
++ Empezar a configurar los equipos de trabajo.
+
+
+
+## Hilo argumental
+
+En la sesión introductoria de la asignatura vimos cómo aprenderemos ecología siguiendo una metáfora "mecanicista". Asumiremos que nuestras entidades de estudio (los ecosistemas) son entidades compuestas de una serie de elementos (comunidades, condiciones abióticas, etc.), que a su vez están compuestas de otras (poblaciones, individuos, etc.). Es decir, explicaremos la realidad compleja que nos rodea siguiendo una jerarquía de elementos que funcionan a distintas escalas y que están anidados entre sí.
+
+Al explicar el plan docente de la asignatura, empezamos planteando preguntas generales (¿cómo funcionan los ecosistemas?, ¿Cómo podemos gestionarlos de manera sostenible?). También dijimos que para tratar de responder a esas preguntas necesitábamos ir aprendiendo la estructura y funcionamiento de los elementos que constituyen los ecosistemas. Durante las sesiones prácticas seguiremos una aproximación simlar. 
 
  
+ 
+ 
+ 
+ 
+<iframe src="https://prezi.com/p/embed/jcGLCuwM1BzQuigRH31U/" id="iframe_container" frameborder="0" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen="" allow="autoplay; fullscreen" height="315" width="560"></iframe>
 
 ****
 
