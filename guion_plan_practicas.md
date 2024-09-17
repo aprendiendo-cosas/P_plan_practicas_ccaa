@@ -6,7 +6,7 @@
 > + **_Autor_**: Curro Bonet-García (fjbonet@uco.es)
 > + **_Duración_**: 1.5 horas
 
-![portada](https://raw.githubusercontent.com/aprendiendo-cosas/Te_generalidades_ecologia_ccaa/master/imagenes/portada.png)
+![portada](https://raw.githubusercontent.com/aprendiendo-cosas/P_plan_practicas_ccaa/master/imagenes/portada.png)
 
 
 
@@ -24,14 +24,14 @@ En esta primera sesión de prácticas abordaremos los siguientes objetivos:
 
 En la sesión introductoria de la asignatura vimos cómo aprenderemos ecología siguiendo una metáfora "mecanicista". Asumiremos que nuestras entidades de estudio (los ecosistemas) son entidades compuestas de una serie de elementos (comunidades, condiciones abióticas, etc.), que a su vez están compuestas de otras (poblaciones, individuos, etc.). Es decir, explicaremos la realidad compleja que nos rodea siguiendo una jerarquía de elementos que funcionan a distintas escalas y que están anidados entre sí.
 
-Al explicar el plan docente de la asignatura, empezamos planteando preguntas generales (¿cómo funcionan los ecosistemas?, ¿Cómo podemos gestionarlos de manera sostenible?). También dijimos que para tratar de responder a esas preguntas necesitábamos ir aprendiendo la estructura y funcionamiento de los elementos que constituyen los ecosistemas. Durante las sesiones prácticas seguiremos una aproximación simlar. 
+Al explicar el plan docente de la asignatura, empezamos planteando preguntas generales (¿cómo funcionan los ecosistemas?, ¿Cómo podemos gestionarlos de manera sostenible?). También dijimos que para tratar de responder a esas preguntas necesitábamos ir aprendiendo la estructura y funcionamiento de los elementos que constituyen los ecosistemas. Durante las sesiones prácticas seguiremos una aproximación similar. 
+
+
 
  
- 
- 
- 
- 
-<iframe src="https://prezi.com/p/embed/jcGLCuwM1BzQuigRH31U/" id="iframe_container" frameborder="0" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen="" allow="autoplay; fullscreen" height="315" width="560"></iframe>
+
+
+<iframe src="https://prezi.com/p/embed/jcGLCuwM1BzQuigRH31U/" id="iframe_container" frameborder="0" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen="" allow="autoplay; fullscreen" height="415" width="560"></iframe>
 
 ****
 
