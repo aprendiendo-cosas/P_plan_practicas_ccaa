@@ -26,6 +26,13 @@ En la sesión introductoria de la asignatura vimos cómo aprenderemos ecología 
 
 Al explicar el plan docente de la asignatura, empezamos planteando preguntas generales (¿cómo funcionan los ecosistemas?, ¿Cómo podemos gestionarlos de manera sostenible?). También dijimos que para tratar de responder a esas preguntas necesitábamos ir aprendiendo la estructura y funcionamiento de los elementos que constituyen los ecosistemas. Durante las sesiones prácticas seguiremos una aproximación similar. 
 
+Además de este marco conceptual teórico, durante las prácticas seguiremos una aproximación docente denominada "aprendizaje basado en proyectos". Se trata de una técnica que pretende fomentar el aprendizaje profundo mediante el planteamiento de un reto a los estudiantes. Este reto debe de cumplir una serie de condiciones:
+
++ Tiene que estar alineado con los conceptos teóricos y prácticos vistos en la asignatura.
++ Debe de tener un nivel de complejidad lo suficientemente alto como para que sea retante, pero a la vez lo suficientemente abordable como para no desilusionar a los estudiantes.
+
+En este caso, el objetivo que nos planteamos durante las prácticas es la creación de un libro digital (publicado en internet) sobre los distintos tipos de ecosistemas de Sierra Nevada. Escribiremos ese libro por equipos y en cada práctica aprenderemos las competencias y habilidades necesarias para darle contenido. La siguiente presentación muestra el procedimiento a seguir y los contenidos de las prácticas. Puedes descargar la presentación [aquí](https://github.com/aprendiendo-cosas/P_plan_practicas_ccaa/raw/master/presentacion/plan_practicas_2024_2025.pdf) en pdf, aquí para Mac y aquí para Windows. 
+
 
 
  
