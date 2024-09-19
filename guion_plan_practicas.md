@@ -6,7 +6,7 @@
 > + **_Autor_**: Curro Bonet-García (fjbonet@uco.es)
 > + **_Duración_**: 1.5 horas
 
-![portada](https://raw.githubusercontent.com/aprendiendo-cosas/P_plan_practicas_ccaa/master/imagenes/portada.png)
+![portada](https://raw.githubusercontent.com/aprendiendo-cosas/P_plan_practicas_ccaa/2024_2025/imagenes/portada.png)
 
 
 
@@ -31,7 +31,7 @@ Además de este marco conceptual teórico, durante las prácticas seguiremos una
 + Tiene que estar alineado con los conceptos teóricos y prácticos vistos en la asignatura.
 + Debe de tener un nivel de complejidad lo suficientemente alto como para que sea retante, pero a la vez lo suficientemente abordable como para no desilusionar a los estudiantes.
 
-En este caso, el objetivo que nos planteamos durante las prácticas es la creación de un libro digital (publicado en internet) sobre los distintos tipos de ecosistemas de Sierra Nevada. Escribiremos ese libro por equipos y en cada práctica aprenderemos las competencias y habilidades necesarias para darle contenido. La siguiente presentación muestra el procedimiento a seguir y los contenidos de las prácticas. Puedes descargar la presentación [aquí](https://github.com/aprendiendo-cosas/P_plan_practicas_ccaa/raw/master/presentacion/plan_practicas_2024_2025.pdf) en pdf, aquí para Mac y aquí para Windows. 
+En este caso, el objetivo que nos planteamos durante las prácticas es la creación de un libro digital (publicado en internet) sobre los distintos tipos de ecosistemas de Sierra Nevada. Escribiremos ese libro por equipos y en cada práctica aprenderemos las competencias y habilidades necesarias para darle contenido. La siguiente presentación muestra el procedimiento a seguir y los contenidos de las prácticas. Puedes descargar la presentación [aquí](https://github.com/aprendiendo-cosas/P_plan_practicas_ccaa/raw/2024_2025/presentacion/plan_practicas_2024_2025.pdf) en pdf, [aquí](https://github.com/aprendiendo-cosas/P_plan_practicas_ccaa/raw/2024_2025/presentacion/plan_practicas_2024_2025.zip) para Mac y [aquí](https://github.com/aprendiendo-cosas/P_plan_practicas_ccaa/raw/2024_2025/presentacion/plan_practicas_2024_2025.exe) para Windows. 
 
 
 
