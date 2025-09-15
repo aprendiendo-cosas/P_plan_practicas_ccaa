@@ -16,7 +16,7 @@ En esta primera sesión de prácticas abordaremos los siguientes objetivos:
 
 + Adquirir una primera visión sobre el objetivo final de las sesiones prácticas de la asignatura: generar un  producto concreto y tangible sobre un territorio determinado (Sierra Nevada en este caso) de manera colaborativa.
 + Avanzar en la comprensión de las distintas formas de abordar la caracterización de sistemas complejos como los ecosistemas. 
-+ Empezar a configurar los equipos de trabajo.
++ Asignación de ecosistemas a cada estudiante. 
 
 
 
@@ -31,14 +31,13 @@ Además de este marco conceptual teórico, durante las prácticas seguiremos una
 + Tiene que estar alineado con los conceptos teóricos y prácticos vistos en la asignatura.
 + Debe de tener un nivel de complejidad lo suficientemente alto como para que sea retante, pero a la vez lo suficientemente abordable como para no desilusionar a los estudiantes.
 
-En este caso, el objetivo que nos planteamos durante las prácticas es la creación de un libro digital (publicado en internet) sobre los distintos tipos de ecosistemas de Sierra Nevada. Escribiremos ese libro por equipos y en cada práctica aprenderemos las competencias y habilidades necesarias para darle contenido. La siguiente presentación muestra el procedimiento a seguir y los contenidos de las prácticas. Puedes descargar la presentación [aquí](https://github.com/aprendiendo-cosas/P_plan_practicas_ccaa/raw/2024_2025/presentacion/plan_practicas_2024_2025.pdf) en pdf, [aquí](https://github.com/aprendiendo-cosas/P_plan_practicas_ccaa/raw/2024_2025/presentacion/plan_practicas_2024_2025.zip) para Mac y [aquí](https://github.com/aprendiendo-cosas/P_plan_practicas_ccaa/raw/2024_2025/presentacion/plan_practicas_2024_2025.exe) para Windows. 
+En este caso, el objetivo que nos planteamos durante las prácticas es la creación de un libro digital sobre los distintos tipos de ecosistemas de Sierra Nevada. Cada estudiante se hará responsable de un tipo de ecosistema de Sierra Nevada. Como tenemos más estudiantes que tipos de ecosistemas, habrá ecosistemas repetidos. No pasa nada. Esto mejorará la colaboración entre estudiantes. En cada práctica aprenderemos las competencias y habilidades necesarias para darle contenido. La siguiente presentación muestra el procedimiento a seguir y los contenidos de las prácticas. Puedes descargar la presentación [aquí](https://github.com/aprendiendo-cosas/P_plan_practicas_ccaa/raw/2024_2025/presentacion/plan_practicas_2024_2025.pdf) en pdf, [aquí](https://github.com/aprendiendo-cosas/P_plan_practicas_ccaa/raw/2024_2025/presentacion/plan_practicas_2024_2025.zip) para Mac y [aquí](https://github.com/aprendiendo-cosas/P_plan_practicas_ccaa/raw/2024_2025/presentacion/plan_practicas_2024_2025.exe) para Windows. 
 
 
 
  
 
-
-<iframe src="https://prezi.com/p/embed/jcGLCuwM1BzQuigRH31U/" id="iframe_container" frameborder="0" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen="" allow="autoplay; fullscreen" height="415" width="560"></iframe>
+<iframe src="https://prezi.com/p/embed/qg91oXRLUnuU0LpFStO8/" id="iframe_container" frameborder="0" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen="" allow="autoplay; fullscreen" height="415" width="560"></iframe>
 
 ****
 
